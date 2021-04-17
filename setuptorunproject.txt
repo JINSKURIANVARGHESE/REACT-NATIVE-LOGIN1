@@ -1,5 +1,9 @@
-cd react-native-login/ReactNativeL
+
+cd react-native-login/ReactNativeLogin
+yarn insall
+npm start
 cd ../server
+yarn install
 node server.js
 To run the iOS version, open another terminal window type open ../ReactNativeLogin/iOS/ReactNativeLogin.xcodeproj
 Click the play icon in Xcode to start the app
